@@ -1,0 +1,20 @@
+.sign{
+     
+    border:3px solid blue;
+    background-color: rgb(85, 66, 94);
+    color:black;
+   margin: 0;
+   padding: 0;
+    font-size:1em;
+    
+
+}
+#hr{background-color: blue;
+    
+    border-width: 3px;
+
+}
+#field{
+    color: red;
+    text-align: right;
+}
